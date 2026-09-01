@@ -16,7 +16,7 @@ The goal of this project is to simulate a **corporate-grade end-to-end data anal
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI.git
+https://github.com/karankumbhar90291571/Customer_Behavior_Dashboard-.git
 cd customer-trends-data-analysis-SQL-Python-PowerBI
 ```
 
